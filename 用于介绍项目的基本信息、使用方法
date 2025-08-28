@@ -1,0 +1,6 @@
+# My Python Project
+这是一个简单的Python项目示例。
+
+## 安装
+```bash
+pip install -r requirements.txt
